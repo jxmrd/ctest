@@ -9,4 +9,8 @@ class Test{
 		echo "Test Class is saying hi";
 	}
 
+
+	public static function haha(){
+		echo "haha";
+	}
 }
