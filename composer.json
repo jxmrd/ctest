@@ -8,12 +8,14 @@
             "Jx\\Ctest\\": "src/"
         }
     },
+    "require": {
+        "php": "~5.6.1"
+    },
     "authors": [
         {
             "name": "John Smith",
             "email": "john@example.com"
         }
     ],
-    "minimum-stability": "dev",
-    "require": {}
+    "minimum-stability": "dev"
 }
